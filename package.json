@@ -1,6 +1,6 @@
 {
   "name": "@engineer.dilnawaz.khan/count-word",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "bin": {
     "count-word": "./app.js"

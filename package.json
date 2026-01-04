@@ -1,8 +1,16 @@
 {
-    "name": "@engineer.dilnawaz.khan/count-word",
-    "version": "1.0.0",
-    "type": "module",
-    "bin": {
-        "count-word": "./app.js"
-    }
+  "name": "@engineer.dilnawaz.khan/count-word",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "count-word": "./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/engineer-dilnawaz/word-count"
+  },
+  "homepage": "https://github.com/engineer-dilnawaz/word-count#readme",
+  "bugs": {
+    "url": "https://github.com/engineer-dilnawaz/word-count/issues"
+  }
 }

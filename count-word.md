@@ -100,7 +100,7 @@ count-word ./file.txt hello
 Clone the repository and link it locally:
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/engineer-dilnawaz/word-count.git
 cd count-word
 npm install
 npm link

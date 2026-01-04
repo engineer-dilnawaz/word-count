@@ -147,6 +147,10 @@ npm: `@engineer.dilnawaz.khan`
 
 ---
 
+[![npm version](https://img.shields.io/npm/v/@engineer.dilnawaz.khan/count-word)](https://www.npmjs.com/package/@engineer.dilnawaz.khan/count-word)
+
+---
+
 ## Future Improvements
 
 - `--help` and `--version` flags

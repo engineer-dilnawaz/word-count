@@ -1,5 +1,8 @@
 # count-word
 
+[![npm version](https://img.shields.io/npm/v/@engineer.dilnawaz.khan/count-word.svg)](https://www.npmjs.com/package/@engineer.dilnawaz.khan/count-word)
+[![npm downloads](https://img.shields.io/npm/dm/@engineer.dilnawaz.khan/count-word.svg)](https://www.npmjs.com/package/@engineer.dilnawaz.khan/count-word)
+
 A fast, simple, and lightweight **CLI tool** to count words in a text file — built with modern Node.js and ES Modules.
 
 You can:
@@ -40,11 +43,11 @@ count-word ./file.txt
 
 **Output example:**
 
-```js
+```json
 {
-  hello: 3,
-  world: 2,
-  node: 1
+  "hello": 3,
+  "world": 2,
+  "node": 1
 }
 ```
 
@@ -58,9 +61,9 @@ count-word ./file.txt hello
 
 **Output example:**
 
-```js
+```json
 {
-  hello: 3;
+  "hello": 3
 }
 ```
 
@@ -117,7 +120,6 @@ count-word ./test.txt
 ## Project Structure
 
 ```text
-.
 ├── app.js        # CLI entry point
 ├── package.json
 └── README.md
@@ -144,10 +146,6 @@ MIT © Dilnawaz Khan
 **Dilnawaz Khan**
 Frontend / Full-Stack Engineer
 npm: `@engineer.dilnawaz.khan`
-
----
-
-[![npm version](https://img.shields.io/npm/v/@engineer.dilnawaz.khan/count-word)](https://www.npmjs.com/package/@engineer.dilnawaz.khan/count-word)
 
 ---
 
